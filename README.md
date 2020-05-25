@@ -1,2 +1,3 @@
-# LearningSQL-2ndEd
-Code for Learning SQL, 2nd Edition - Master SQL Fundamentals, By Alan Beaulieu
+# LearningSQL-3rdEd
+
+Code for "Learning SQL, 3rd Edition - Generate, Manipulate, and Retrieve Data", by Alan Beaulieu
